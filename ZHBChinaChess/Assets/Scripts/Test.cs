@@ -10,10 +10,10 @@ using UnityEngine;
 
 public class Test : MonoBehaviour 
 {
-    private void Start()
-    {
-        UIManager.Instance.Test();
-        GameManager.Instance.Test();
-        AudioSourceManager.Instance.Test();
-    }
+    //private void Start()
+    //{
+    //    UIManager.Instance.Test();
+    //    GameManager.Instance.Test();
+    //    AudioSourceManager.Instance.Test();
+    //}
 }
